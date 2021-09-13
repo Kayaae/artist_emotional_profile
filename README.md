@@ -8,7 +8,7 @@ Sentiment Analysis: Using NRC's emotional lexicon.
 This project was created on May 24, 2020
 
 ## How was the data acquired?
-The Data was acquired through Genius.com's official API as well as the the lyricsgenius API.
+The data was acquired through Genius.com's official API as well as the the lyricsgenius API.
 
 ## View the project in nbviewer
 https://nbviewer.jupyter.org/github/Kayaae/artist_emotional_profile/blob/master/Artists.ipynb
